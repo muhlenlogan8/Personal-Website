@@ -1,0 +1,14 @@
+[
+    {
+      "month": "January",
+      "projectTitle": "Project 1",
+      "description": "Description of your first project.",
+      "image": "/path/to/image.jpg"
+    },
+    {
+      "month": "February",
+      "projectTitle": "Project 2",
+      "description": "Description of your second project.",
+      "image": "/path/to/image.jpg"
+    }
+  ]
